@@ -6,7 +6,10 @@ Kairos Sans is an octagonal sans serif typeface with bold simplicity, with a des
  
 This Variable Font demo was made to showcase the capabilities in the new OpenType version 1.8 specification. Please read the [EULA], which limits usage for development, prototyping and testing purposes – and not for re-distribution or commercial use.
 
-[EULA]: https://github.com/Monotype/Monotype_prototype_variable_fonts/blob/master/LICENSE.txt
+To test the functionality in this font, try [FontView]. 
+
+[EULA]: https://github.com/Monotype/Monotype_prototype_variable_fonts/blob/master/KairosSans/LICENSE.txt
+[FontView]: https://github.com/googlei18n/fontview
 
 This TrueType variable font contains three axes:
 -         Weight
