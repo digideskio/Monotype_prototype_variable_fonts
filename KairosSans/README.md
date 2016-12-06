@@ -1,6 +1,6 @@
 # Monotype Variable Font Demo - Kairos™ Sans
  
-Monotype is pleased to introduce our first Variable Font demo. Kairos Sans was designed by Terrance Weinzierl and programmed by Monotype’s font development team.
+Monotype is pleased to introduce our first Variable Font demo. Kairos Sans was designed by Terrance Weinzierl and produced by Monotype’s font development team.
  
 Kairos Sans is an octagonal sans serif typeface with bold simplicity, with a design influenced by 19th Century Grecian typefaces. It features a full palette of weights and widths; including complementary italics.
  
@@ -14,7 +14,7 @@ To test the functionality in this font, try [FontView].
 This TrueType variable font contains three axes:
 -         Weight
 -         Width
--         Slant
+-         Italic
  
 It has an ASCII character set, along with en and em dash and opening/closing quotes.
  
